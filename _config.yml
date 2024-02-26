@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: dev.log # the main title
 
-tagline: :D # it will display as the sub-title
+tagline: 개발공부 + 포트폴리오 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: jihye
+  name: Jihye Ha
   email: songg046@gamil.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -76,7 +76,7 @@ theme_mode: # [light | dark]
 # img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/profile.jpg"
+# avatar: "/assets/img/profile.png" # profile 프로필사진
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

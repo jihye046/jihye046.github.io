@@ -692,7 +692,8 @@ $btn-mb: 0.5rem;
   overflow-y: auto;
   width: $sidebar-width;
   z-index: 99;
-  background: var(--sidebar-bg);
+  background: url(/assets/img/background.jpg); // var(--sidebar-bg);
+  background-size: auto;
   border-right: 1px solid var(--sidebar-border-color);
 
   /* Hide scrollbar for Chrome, Safari and Opera */
@@ -719,7 +720,7 @@ $btn-mb: 0.5rem;
     width: 7rem;
     height: 7rem;
     overflow: hidden;
-    box-shadow: var(--avatar-border-color) 0 0 0 2px;
+    // box-shadow: var(--avatar-border-color) 0 0 0 2px;
     transform: translateZ(0); /* fixed the zoom in Safari */
 
     img {
@@ -753,13 +754,16 @@ $btn-mb: 0.5rem;
       @extend %clickable-transition;
       @extend %sidebar-link-hover;
 
-      color: var(--site-title-color);
+      // color: var(--site-title-color);
+      color: #ffffff;
+      // }
     }
   }
 
   .site-subtitle {
     font-size: 95%;
-    color: var(--site-subtitle-color);
+    // color: var(--site-subtitle-color);
+    color: #ffffff;
     margin-top: 0.25rem;
     word-spacing: 1px;
     -webkit-user-select: none;
@@ -784,6 +788,7 @@ $btn-mb: 0.5rem;
         align-items: center;
         border-radius: 0.75rem;
         font-weight: 600;
+        color: white; // [Category] hover상태 아닐 때 font-color
 
         &:hover {
           background-color: var(--sidebar-hover-bg);
