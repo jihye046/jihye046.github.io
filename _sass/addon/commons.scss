@@ -1,5 +1,16 @@
 /* The common styles */
 
+// 'Gowun Dodum' font 추가 import
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap');
+
+// 'iceJaram-Rg' font 추가 font-face
+@font-face {
+  font-family: 'iceJaram-Rg';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/iceJaram-Rg.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 html {
   @media (prefers-color-scheme: light) {
     &:not([data-mode]),
@@ -32,7 +43,14 @@ body {
     env(safe-area-inset-bottom) env(safe-area-inset-left);
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
-  font-family: $font-family-base;
+  // font-family: $font-family-base;
+  font-family: 'Gowun Dodum', $font-family-base; // 'Gowun Dodum' font 추가
+}
+
+// 'iceJaram-Rg' font 추가
+.iceJaram-Rg {
+  font-family: 'iceJaram-Rg', 'Gowun Dodum', $font-family-base;
+  font-size: 2.42rem;
 }
 
 /* --- Typography --- */
@@ -692,7 +710,7 @@ $btn-mb: 0.5rem;
   overflow-y: auto;
   width: $sidebar-width;
   z-index: 99;
-  background: url(/assets/img/background.jpg); // var(--sidebar-bg);
+  background: url(/assets/img/background4.jpg); // var(--sidebar-bg);
   background-size: auto;
   border-right: 1px solid var(--sidebar-border-color);
 
