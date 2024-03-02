@@ -72,22 +72,36 @@ order: 4
 <!--EDUCATION-->
 ##### E D U C A T I O N
 
-#### **울산KH정보교육원 (2023.03 ~ 2023.08)**
-- 과정명
-  - (디지털컨버전스)자바 서버 기반 멀티 디바이스 융합 개발자 양성과정
-- 교육내용
-  - Java, JavaScript, JQuery 등
-
+<div class= "about-Edu-Title-Div">
+  <p class="about-Edu-Title-P">
+    울산KH정보교육원 (2023.03 ~ 2023.08)
+  </p>
+</div>
+<div class="about-Edu-Content-Div">
+  <p class="about-Edu-Content-P">
+     ⦁ 과정명 <br>
+    &nbsp; º (디지털컨버전스)자바 서버 기반 멀티 디바이스 융합 개발자 양성과정 <br><br>
+     ⦁ 교육내용 <br>
+    &nbsp; º Java, JavaScript, JQuery 등
+  </p>
+</div>
 <br>
 
 
 <!--CAREER-->
 ##### C A R E E R
-#### **제이에스경영컨설팅 (2018.08 ~ 2023.01)**
-- 담당업무
-  - 각종 세금신고(부가가치세, 종합소득세, 원천세 등)
-  - 회계/급여/인사 등
-
+<div class= "about-Edu-Title-Div">
+  <p class="about-Edu-Title-P">
+    제이에스경영컨설팅 (2018.08 ~ 2023.01)
+  </p>
+</div>
+<div class="about-Edu-Content-Div">
+  <p class="about-Edu-Content-P">
+     ⦁ 담당업무 <br>
+    &nbsp; º 각종 세금신고(부가가치세, 종합소득세, 원천세 등) <br>
+    &nbsp; º 회계/급여/인사 등 <br>
+  </p>
+</div>
 <br>
 
 
