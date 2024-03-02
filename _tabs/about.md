@@ -44,7 +44,7 @@ order: 4
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white" alt="apachetomcat-badge">
   <br>
 
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle-badge">
+  <img src="https://img.shields.io/badge/oracle Sql-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle-badge">
   <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=white" alt="Android-badge">
   <br>  
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="notion-badge">
@@ -92,7 +92,7 @@ order: 4
 ##### C A R E E R
 <div class= "about-Edu-Title-Div">
   <p class="about-Edu-Title-P">
-    제이에스경영컨설팅 (2018.08 ~ 2023.01)
+    제이원세무회계 (2018.08 ~ 2023.01)
   </p>
 </div>
 <div class="about-Edu-Content-Div">
