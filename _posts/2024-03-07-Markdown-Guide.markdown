@@ -314,12 +314,12 @@ pin: true
 
 ``` markdown
   [화면에 표시될 텍스트](링크 URL "마우스를 올렸을 때 보여줄 텍스트")
-  [Google](http://www.google.com "구글")
-  [Naver](http://www.naver.com "네이버")
+  [Google](https://www.google.com "구글")
+  [Naver](https://www.naver.com "네이버")
 ```
 <!-- 외부 링크 출력 예시 -->
-[Google](http://www.google.com "구글") 
-[Naver](http://www.naver.com "네이버")
+[Google](https://www.google.com "구글") 
+[Naver](https://www.naver.com "네이버")
 
 <br>
 
