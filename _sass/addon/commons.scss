@@ -1,12 +1,20 @@
 /* The common styles */
 
-// 'Gowun Dodum' font 추가 import
+// 'Gowun Dodum' font 추가 
 @import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap');
 
-// 'iceJaram-Rg' font 추가 font-face
+// 'iceJaram-Rg' font 추가 
 @font-face {
   font-family: 'iceJaram-Rg';
   src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/iceJaram-Rg.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+// 'NanumSquareRound' font 추가
+@font-face {
+  font-family: 'NanumSquareRound';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumSquareRound.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -51,6 +59,12 @@ body {
 .iceJaram-Rg {
   font-family: 'iceJaram-Rg', 'Gowun Dodum', $font-family-base;
   font-size: 2.42rem;
+}
+
+.code-block {
+  font-family: 'NanumSquareRound', 'iceJaram-Rg', 'Gowun Dodum', $font-family-base;
+  margin-left: 25px; 
+  font-size: 0.90rem;
 }
 
 /* --- Typography --- */
