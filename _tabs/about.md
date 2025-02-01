@@ -122,7 +122,7 @@ order: 4
         처음에는 짧은 글들이었지만, 모르는 것을 공부하고 정리하는 과정에서 새로운 기술이나 개념을 익히는 데에 큰 도움이 되었습니다. 앞으로도 끊임없이 공부하고 성장할 것 입니다.
       </p>
 			<p>
-				<a class="btn" href="https://wisdomdev.notion.site/a206cbe8d1b84744a7d86d2b5d735031?v=135c6a8d75444d09a386cbe0dd564566&pvs=4">
+				<a class="btn" href="https://wisdomdev.notion.site/18c5cdabe14c8070b561c353660585d2?pvs=4">
           View details »
         </a>
 			</p>
@@ -135,7 +135,7 @@ order: 4
 				Github
 			</h2>
 			<p style="font-size: 14px;">
-        아직 많은 글이 있지는 않지만 작업했던 프로젝트를 관리하고 있습니다. 앞으로 토이 프로젝트를 진행하며 제 개발 과정을 기록해나갈 예정입니다.
+        작업했던 프로젝트를 관리하고 있습니다. 앞으로 토이 프로젝트를 진행하며 제 개발 과정을 기록해나갈 예정입니다.
         <br><br><br><br><br><br><br>
 			</p>
 			<p>
